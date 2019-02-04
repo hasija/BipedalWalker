@@ -1,6 +1,7 @@
 # BipedalWalker - AI teaching itself to walk
 Augmented Random Search to make a a 2D biped walker to walk through rough terrain
 
+![BipedalWalker](https://github.com/hasija/BipedalWalker/blob/master/BipedalWalker.png)
 [BipedalWalker](https://gym.openai.com/envs/BipedalWalker-v2/)
 
 Description - Get a 2D biped walker to walk through rough terrain.
