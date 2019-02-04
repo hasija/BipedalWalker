@@ -17,5 +17,3 @@ Requirements:
 
 We will be using OpenAI gym, a toolkit for reinforcement learning.
 It also gives some standard set of environments. See [env](https://gym.openai.com/envs/)
-
-Setup is really painful and may not even work in local systems. Rather to simplify the reporducibility, use the Google Colab file.
