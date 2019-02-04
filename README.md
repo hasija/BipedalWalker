@@ -2,13 +2,14 @@
 Augmented Random Search to make a a 2D biped walker to walk through rough terrain
 
 ![BipedalWalker](https://github.com/hasija/BipedalWalker/blob/master/BipedalWalker.png)
+
 [BipedalWalker](https://gym.openai.com/envs/BipedalWalker-v2/)
 
 Description - Get a 2D biped walker to walk through rough terrain.
 Solved Requirements - BipedalWalker-v2 defines "solving" as getting average reward of 200 over 100 consecutive trials
 
 
-[Training videos](videos/)
+[Training videos](https://github.com/hasija/BipedalWalker/tree/master/shubham_ars)
 
 Requirements:
 - Python
